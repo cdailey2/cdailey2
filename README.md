@@ -1,4 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Colin!</h1>
+
+<h2>About</h2>
+<p>I am currently a Junior at <a href='https://www.elon.edu/'>Elon University</a>, majoring in computer science (BS) with minors in data science and business administration.</p>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Python</b>
+  - [Exploring the Efficacy of Supervised Machine Learning Models in Breast Cancer Detection Based on Cellular Characteristics](In Progress...)
+    
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="ColinDailey LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/colin-dailey-2aa66829b
 
 <!--
 **cdailey2/cdailey2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
