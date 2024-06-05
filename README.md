@@ -6,7 +6,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Exploring the Efficacy of Supervised Machine Learning Models in Breast Cancer Detection Based on Cellular Characteristics](In Progress...)
+  - [Exploring the Efficacy of Supervised Machine Learning Models in Breast Cancer Detection Based on Cellular Characteristics](https://github.com/cdailey2/Breast_Cancer_Detection)
     
 <h2> 🤳 Connect with me:</h2>
 
