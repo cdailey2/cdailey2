@@ -6,7 +6,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Baby Name Query System]((https://github.com/cdailey2/BabyNameQuerySystem))
+  - [Baby Name Query System](https://github.com/cdailey2/BabyNameQuerySystem)
 
 <h2>🤖 Machine Learning Projects:</h2>
 
