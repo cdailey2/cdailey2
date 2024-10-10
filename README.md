@@ -6,7 +6,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Exploring the Efficacy of Supervised Machine Learning Models in Breast Cancer Detection Based on Cellular Characteristics](https://github.com/cdailey2/Breast_Cancer_Detection)
+  - [Baby Name Query System]((https://github.com/cdailey2/BabyNameQuerySystem))
 
 <h2>🤖 Machine Learning Projects:</h2>
 
