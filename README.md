@@ -5,8 +5,18 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Java</b>
+  - [Exploring the Efficacy of Supervised Machine Learning Models in Breast Cancer Detection Based on Cellular Characteristics](https://github.com/cdailey2/Breast_Cancer_Detection)
+
+<h2>🤖 Machine Learning Projects:</h2>
+
 - <b>Python</b>
   - [Exploring the Efficacy of Supervised Machine Learning Models in Breast Cancer Detection Based on Cellular Characteristics](https://github.com/cdailey2/Breast_Cancer_Detection)
+ 
+<h2>🛜 Web Development Projects:</h2>
+
+- <b>JavaScript, HTML, CSS</b>
+  - Web-Based Demo of Breast Cancer Detecting Machine Learning Models (In Progress...)
     
 <h2> 🤳 Connect with me:</h2>
 
