@@ -3,6 +3,8 @@
 <h2>About</h2>
 <p>I am currently a Junior at <a href='https://www.elon.edu/'>Elon University</a>, majoring in computer science (BS) with minors in data science and business administration.</p>
 
+<br>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
@@ -17,7 +19,9 @@
 
 - <b>JavaScript, HTML, CSS</b>
   - Web-Based Demo of Breast Cancer Detecting Machine Learning Models (In Progress...)
-    
+
+<br>
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ColinDailey LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
