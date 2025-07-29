@@ -1,7 +1,7 @@
 <h1>Hi, I'm Colin!</h1>
 
 <h2>About</h2>
-<p>I am currently a Junior at <a href='https://www.elon.edu/'>Elon University</a>, majoring in computer science (BS) with minors in data science and business administration.</p>
+<p>I am currently a Senior at <a href='https://www.elon.edu/'>Elon University</a>, majoring in computer science (BS) with minors in data science and business administration.</p>
 
 <br>
 
