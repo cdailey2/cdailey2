@@ -18,7 +18,7 @@
 <h2>🛜 Web Development Projects:</h2>
 
 - <b>JavaScript, HTML, CSS</b>
-  - Web-Based Demo of Breast Cancer Detecting Machine Learning Models (In Progress...)
+  - [Web-Based Demo of Breast Cancer Detecting Machine Learning Models](https://github.com/cdailey2/breast-cancer-predictor)
 
 <br>
   
