@@ -8,6 +8,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
+  - [Cell Simulator](https://github.com/cdailey2/cell-simulator) - Java-Based Team Project Focused on Clean Code 
   - [Cache Schemes Project](https://github.com/cdailey2/cache-schemes-project) - Java-Based Data Structures Application
   - [Baby Name Query System Application](https://github.com/cdailey2/BabyNameQuerySystem)
 
