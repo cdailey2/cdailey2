@@ -10,7 +10,7 @@
 - <b>Java</b>
   - [Cell Simulator](https://github.com/cdailey2/cell-simulator) - Java-Based Team Project Focused on Clean Code 
   - [Cache Schemes Project](https://github.com/cdailey2/cache-schemes-project) - Java-Based Application of Data Structures
-  - [Baby Name Query System Application](https://github.com/cdailey2/BabyNameQuerySystem)
+  - [Baby Name Query System Application](https://github.com/cdailey2/BabyNameQuerySystem) - My First Attempt at Writing Clean Code
 
 <h2>🤖 Machine Learning Projects:</h2>
 
