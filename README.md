@@ -8,6 +8,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
+  - [Cache Schemes Project](https://github.com/cdailey2/cache-schemes-project) - Java-Based Data Structures Application
   - [Baby Name Query System Application](https://github.com/cdailey2/BabyNameQuerySystem)
 
 <h2>🤖 Machine Learning Projects:</h2>
